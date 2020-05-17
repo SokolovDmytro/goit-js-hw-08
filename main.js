@@ -1,1 +1,0 @@
-  import array from "./gallery-items.js";
